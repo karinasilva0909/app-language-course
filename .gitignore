@@ -5,6 +5,20 @@
 /.pnp
 .pnp.js
 
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/
+yarn.lock
+
+# npm
+package-lock.json
+
 # testing
 /coverage
 
